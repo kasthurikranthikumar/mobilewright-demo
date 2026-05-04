@@ -5,11 +5,11 @@ export default defineConfig({
   timeout: 60000,
 
   platform: 'android',
-  deviceId: '4A081FDAQ000J5',
+  deviceId: '45210DLAQ001VZ',
 
   driver: {
     type: 'mobile-use',
-    apiKey: 'mob_Ck8rdGERTFH6rPRJpZJAbWaNRkRsuSY843Jv',//https://app.mobilenexthq.com/dashboard/api-keys
+    apiKey: 'mob_BFUb7xHSukbnsmV1EiMHUXtxewk9VLHtzL4m',//https://app.mobilenexthq.com/dashboard/api-keys
   },
  
 });
