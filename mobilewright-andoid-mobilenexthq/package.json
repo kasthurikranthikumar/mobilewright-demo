@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@mobilewright/test": "0.0.31",
+    "mobilewright": "0.0.31",
+    "@types/node": "latest"
+  }
+}
